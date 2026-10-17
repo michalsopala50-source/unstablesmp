@@ -1,0 +1,24 @@
+h1{text-align: center;
+border: 2px solid black;
+padding-bottom: 20px;
+padding-top: 20px;
+margin-left: 500px;
+margin-right: 500px;
+background-color: rgb(148, 12, 12);
+color: white}
+table, th ,td, td{border: 2px solid black;
+border-collapse: collapse;
+width: 900px ;
+text-align: center;}
+table{margin-left: auto;
+margin-right: auto}
+th{padding-top: 5px;
+padding-bottom: 5px;
+padding-left: 50px;
+padding-right: 50px}
+td{padding: 5px 5px 5px 5px}
+th{background-color: rgb(116, 62, 18);}
+td{background-color: rgba(6, 105, 6, 0.856);}
+body{background-color: gray;}
+a:hover{color: red;}
+a{color: white}
